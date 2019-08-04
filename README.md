@@ -1,2 +1,2 @@
-# Exercícios
-Aprendendo Phyton
+# Phyton, aprendendo
+Exercícios
