@@ -1,2 +1,2 @@
-# Projetos
-Phyton
+# Exercícios
+Aprendendo Phyton
