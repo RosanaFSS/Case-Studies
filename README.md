@@ -1,2 +1,1 @@
-# Phyton, aprendendo
-Exercícios
+Aprendendo Linguagem R
